@@ -1,0 +1,8 @@
+Objetivo 1:
+Transformar a função multiplicacao_por_soma, que é iterativa, em uma função recursiva
+
+Objetivo 2:
+Transformar a função fatorial, que é recursiva, em uma função iterativa
+
+Objetivo 3:
+Transformar a função calcular_mdc, que é iterativa, em uma função recursiva
